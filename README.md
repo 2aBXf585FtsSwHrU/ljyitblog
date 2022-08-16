@@ -1,0 +1,2 @@
+# ljyitblog
+static file
